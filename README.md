@@ -4,6 +4,15 @@
 Classifying a person’s emotion, from a list of 7 emotions, using their facial expression. Downloaded face images 
 [Kaggle Dataset](https://www.kaggle.com/c/facial-keypoints-detector) that came as a csv file with grayscale images converted into binary.
 
+**Emotions:**
+- anger
+- disgust
+- fear
+- happy
+- sad
+- surprise
+- neutral
+
 ### Models & Metrics:
 1) 4-layer model using relu and softmax --> 0.09 validation accuracy 
 2) 6-layer CNN model of tanh, MaxPooling2D, and softmax --> F1-score = 0.45
