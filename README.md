@@ -12,3 +12,5 @@ Classifying a person’s emotion, from a list of 7 emotions, using their facial 
 5) VGG16 with 2 tanh layers and softmax output layer --> F1-score = 0.88
 6) VGG19 with 2 tanh layers and softmax output layer --> F1-score = 0.78
 
+### Demo:
+![](https://github.com/ptbailey/Emotion_Recognition/blob/master/demo.gif)
