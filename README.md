@@ -2,7 +2,7 @@
 
 ### Project Definition:
 Classifying a person’s emotion, from a list of 7 emotions, using their facial expression. Downloaded face images 
-[Kaggle Dataset](https://www.kaggle.com/c/facial-keypoints-detector) that came as a csv file with grayscale images converted into binary.
+[Kaggle Dataset](https://www.kaggle.com/c/facial-keypoints-detector) that came as a csv file with grayscale images converted into binary, and used Haar Cascade Frontal Face code to detect faces in live video feed.
 
 **Emotions:**
 - anger
